@@ -1,0 +1,17 @@
+#Projeto{
+    background-color: blue;
+    color: ghostwhite;
+    border-radius: 12.5%;
+    text-align: center;
+}
+
+#tema{
+    background-color: darkgray;
+    color: ghostwhite;
+    text-align: center;
+    padding: 2%;
+}
+
+h4{
+    padding: 1%;
+}
