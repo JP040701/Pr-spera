@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Projeto{
     background-color: blue;
     color: ghostwhite;
@@ -14,4 +15,22 @@
 
 h4{
     padding: 1%;
+=======
+#Projeto{
+    background-color: blue;
+    color: ghostwhite;
+    border-radius: 12.5%;
+    text-align: center;
+}
+
+#tema{
+    background-color: darkgray;
+    color: ghostwhite;
+    text-align: center;
+    padding: 2%;
+}
+
+h4{
+    padding: 1%;
+>>>>>>> ee7385513be15d62c5e75cc8434a3a274fdc032f
 }
